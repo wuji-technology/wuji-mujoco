@@ -1,0 +1,3 @@
+[submodule "wuji_description"]
+	path = wuji_description
+	url = https://github.com/wuji-technology/wuji-description.git

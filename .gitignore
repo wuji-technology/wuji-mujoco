@@ -1,0 +1,20 @@
+# IDE
+.vscode/
+
+# Python
+build/
+install/
+log/
+__pycache__/
+modules/__pycache__/
+
+*.tmp.urdf
+
+# MacOS
+.DS_Store
+
+# Local environments and test output
+.pixi/
+.pytest_cache/
+*.egg-info/
+recordings/
