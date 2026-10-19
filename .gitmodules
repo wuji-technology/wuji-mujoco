@@ -1,0 +1,8 @@
+[submodule "wuji_hand_description"]
+	path = models/wuji_hand_description
+	url = https://github.com/wuji-technology/wuji-hand-description.git
+	branch = main
+[submodule "wuji_description"]
+	path = models/wuji_description
+	url = https://github.com/wuji-technology/wuji-description.git
+	branch = main

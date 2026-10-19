@@ -1,0 +1,3 @@
+# CPU simulation and joint MIT control.
+mujoco==3.11.0
+numpy>=1.24.0
