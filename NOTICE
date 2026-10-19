@@ -1,0 +1,49 @@
+Wuji MuJoCo Simulation Demo
+Copyright 2026 Wuji Technology Co., Ltd.
+
+This product includes software developed by:
+
+- mujoco-sim (MIT)
+  Copyright (c) 2025 Wuji Technology
+  https://github.com/wuji-technology/mujoco-sim
+  run_sim.py is adapted from the original simulation demo.
+  The original MIT notice, reproduced below, continues to apply to the upstream material.
+
+- wuji-description (MIT)
+  Copyright (c) 2025 Wuji Technology
+  https://github.com/wuji-technology/wuji-description
+  Included as a git submodule at wuji_description/; its license is retained there.
+
+- MuJoCo (Apache-2.0)
+  https://github.com/google-deepmind/mujoco
+  Used as the mujoco 3.11.0 PyPI dependency (not vendored).
+
+- NumPy (BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0)
+  https://github.com/numpy/numpy
+  Used as a PyPI dependency (not vendored).
+
+--------------------------------------------------------------------------------
+Original mujoco-sim MIT license
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2025 Wuji Technology
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
